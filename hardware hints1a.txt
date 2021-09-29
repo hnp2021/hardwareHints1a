@@ -2,3 +2,5 @@
 A mini-ITX mother board is a 6.7 square.Nano-ITX mother boards are 4.7" square. pico-ItX mother boards are 3.9" X 2.8" and mobile -ITX mother boards are 2.4" square.
 32-bit OS can run on either a 32-bit or 64-bit processor, although we'll not be able to utilize the 64-bit processor's capabilities with a 32-bit OS.***A 64-bit OS will run only on a 64-bit processor.
 The DC power supply (DCPS) converts house current into three voltages: +5 VDC and -5VDC for the logic circuitry and +24VDC for the paper-transport monitors.
+Three RCA-like connectors at the end of a cable indicate a component video cable.
+The two most popular methods of manufacturing LCD panels are twisted nematic (TN) and in-plane switching (IPS). IPS is regarded as having the best color representation in all angles , while TN is faster and less expensive .***LED and plasma are NOT types of LCD panels.
